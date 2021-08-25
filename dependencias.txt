@@ -1,0 +1,23 @@
+Dependências Instaladas nesse Projeto
+
+- npm install --save react-native-status-bar-height
+
+- yarn add install firebase
+- yarn add @react-native-async-storage/async-storage
+
+- 
+
+- yarn install @react-navigation/native@^5.x
+- yarn install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+- yarn install @react-navigation/stack@^5.x
+- yarn install @react-navigation/drawer@^5.x
+
+
+- npm install styled-components
+- npm install react-native-responsive-fontsize
+
+- yarn add react-native-vector-icons
+- yarn add @react-native-community/picker
+- yarn add date-fns (trabalhando com datas)
+- yarn add @react-native-community/picker / calendário
+-
